@@ -1,8 +1,11 @@
-Name:
+Name: Mark Reynolds
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes
+
+Needed to preload libstc++.so.6 in order to get emulator to work. Otherwise would get errors about
+libgl. This is likely limited to my computer.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
